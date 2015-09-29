@@ -11,7 +11,7 @@ git grep "关键字"
 
 ## License
 ```
-Copyright 2015 Rocko (zhengxiaopeng) <rocko.zxp@gmail.com>.
+Copyright 2015 Rocko (LiXiaoRan) <qq997843911@gmail.com>.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
