@@ -1,5 +1,6 @@
 ## 阅读分享   
 
+[掘金](http://gold.xitu.io) - 国内最优质的技术分享社区
 [Speaker Deck](https://speakerdeck.com/) - Share Presentations without the Mess     
 [Slide Share](https://www.slideshare.net/)   
 [开发者头条](http://toutiao.io/) - 可订阅   
